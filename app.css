@@ -1,0 +1,528 @@
+
+
+.logoheader{
+    position: absolute;
+    width: 111px;
+    height: 113px;
+    left: 15px;
+    top: 44px;
+    
+    
+}
+
+.textheader{
+    position: absolute;
+    width: 375px;
+    height: 70px;
+    left: 993px;
+    top: 65px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: right;
+    
+    color: #000000;
+    
+    
+}
+.ctntitulo{
+    position: absolute;
+    width: 1014px;
+    height: 78px;
+    left: 0px;
+    top: 229px;
+ 
+    background: #25718F;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.titulo{
+    padding: 10px;
+    
+    left: 69px;
+    top: 242px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.cardquenoesunacard{
+   background-color: #C2C2C22E;
+    
+}
+
+.imgcard{
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 59px;
+    top: 410px;
+    
+
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cntpacman{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 123.83px;
+    top: 760.43px;
+    
+    /* medio */
+    
+    background: #25718F;
+    opacity: 0.7;
+    border-radius: 50px;
+
+
+}
+
+.pacman{
+    text-align: center;
+    padding: 10px;
+    left: 203.9px;
+    top: 770px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+}
+
+.ppacman{
+    width: 358px;
+    height: 64px;
+    left: 74px;
+    top: 840px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #142026;
+}
+
+.autorpacman{
+     
+    width: 94px;
+    height: 23px;
+    left: 356.93px;
+    top: 936.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #F2A324;
+}
+
+.imgcard2{
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 516.12px;
+    top: 410px;
+    
+    background: url(.jpg);
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cntpacman2{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 580.95px;
+    top: 760.43px;
+    
+    background: #142026;
+    border-radius: 50px;
+}
+
+.pacman2{
+    text-align: center;
+    padding: 10px;
+
+    left: 663.02px;
+    top: 767.81px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+
+.ppacman2{
+
+    width: 358px;
+    height: 64px;
+    left: 531px;
+    top: 840px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.autorpacman2{
+    width: 94px;
+    height: 23px;
+    left: 817.05px;
+    top: 936.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+
+    
+    color: #F2A324;
+}
+
+.imgcard3{
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 973px;
+    top: 410px;
+    
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cntpacman3{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 1037.83px;
+    top: 760.43px;
+    
+    
+    background: #F2A324;
+    border-radius: 50px;
+}
+
+.pacman3{
+    text-align: center;
+    padding: 10px;
+
+   
+    left: 1119.9px;
+    top: 767.81px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+
+.ppacman3{
+    width: 358px;
+    height: 64px;
+    left: 988px;
+    top: 840px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.autorpacman3{
+    width: 94px;
+    height: 23px;
+    left: 1271.93px;
+    top: 937.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    
+    color: #F2A324;
+}
+
+.imgcard4{
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 59px;
+    top: 1009px;
+    
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cntpacman4{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 123.83px;
+    top: 1359.43px;
+    
+    /* armonioso */
+    
+    background: #142026;
+    border-radius: 50px;
+}
+
+.pacman4{
+    text-align: center;
+    padding: 10px;
+
+    left: 205.9px;
+    top: 1366.81px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+
+.ppacman4{
+
+    width: 358px;
+    height: 64px;
+    left: 73.88px;
+    top: 1439px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
+    /* armonioso */
+    
+    color: #142026;
+    
+}
+
+.autorpacman4{
+    width: 94px;
+    height: 23px;
+    left: 359.93px;
+    top: 1535.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    /* solcito de verano */
+    
+    color: #F2A324;
+
+}
+
+.imgcard5{
+
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 516px;
+    top: 1009px;
+    
+    background: url(.jpg);
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.cntpacman5{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 580.83px;
+    top: 1359.43px;
+    
+    /* solcito de verano */
+    
+    background: #F2A324;
+    border-radius: 50px;
+}
+
+.pacman5{
+    text-align: center;
+    padding: 10px;
+
+    left: 662.9px;
+    top: 1366.81px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+}
+
+.ppacman5{
+ 
+    width: 358px;
+    height: 64px;
+    left: 531px;
+    top: 1439px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
+    /* armonioso */
+    
+    color: #142026;
+}
+
+.autorpacman5{
+    width: 94px;
+    height: 23px;
+    left: 814.93px;
+    top: 1536.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    
+    color: #F2A324;
+    
+}
+
+.imgcard6{
+    position: absolute;
+    width: 407.88px;
+    height: 332.37px;
+    left: 973px;
+    top: 1009px;
+    
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cntpacman6{
+    position: absolute;
+    width: 278.21px;
+    height: 47.6px;
+    left: 1037.83px;
+    top: 1359.43px;
+    
+    background: #25718F;
+    opacity: 0.7;
+    border-radius: 50px;
+}
+
+.pacman6{
+
+    text-align: center;
+    padding: 10px;
+
+    left: 1117.9px;
+    top: 1365.81px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+}
+
+.ppacman6{
+    width: 358px;
+    height: 64px;
+    left: 988px;
+    top: 1439px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
+}
+
+.autorpacman6{
+    width: 94px;
+    height: 23px;
+    left: 1270.93px;
+    top: 1535.34px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    /* solcito de verano */
+    
+    color: #F2A324;
+}
+
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 245px;
+    left: 0px;
+    top: 1703px;
+    
+    background: linear-gradient(180deg, rgba(37, 113, 143, 0.72) 0%, #25718F 100%);
+}
+
+.logofooter{
+    padding-top: 42px;
+    padding-left: 531px;
+}
+
+.textofooter{
+    padding-top: 40px;
+    text-align: center;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+}
